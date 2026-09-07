@@ -1,6 +1,6 @@
 pandas
 scikit-learn
-fastapo
+fastapi
 uvicorn
 pydantic
 joblib
